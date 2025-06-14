@@ -1,0 +1,369 @@
+Vin = 5.10 V
+Rlo = 2.25 MOhm
+Rhi = 279 kOhm
+
+Vin = 5.00 V
+Rlo = 2.25 MOhm
+Rhi = 279 kOhm
+
+Vin = 4.90 V
+Rlo = 2.25 MOhm
+Rhi = 279 kOhm
+
+ === Temperature: 0°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 356 kOhm
+Vts = 2.61 V [too cold]
+
+ === Temperature: 1°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 337 kOhm
+Vts = 2.55 V [too cold]
+
+ === Temperature: 2°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 319 kOhm
+Vts = 2.49 V [too cold]
+
+ === Temperature: 3°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 302 kOhm
+Vts = 2.44 V [too cold]
+
+ === Temperature: 4°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 287 kOhm
+Vts = 2.38 V [too cold]
+
+ === Temperature: 5°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 272 kOhm
+Vts = 2.32 V [too cold]
+
+ === Temperature: 6°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 258 kOhm
+Vts = 2.26 V [too cold]
+
+ === Temperature: 7°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 245 kOhm
+Vts = 2.20 V [too cold]
+
+ === Temperature: 8°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 232 kOhm
+Vts = 2.14 V [too cold]
+
+ === Temperature: 9°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 220 kOhm
+Vts = 2.09 V [too cold]
+
+ === Temperature: 10°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 209 kOhm
+Vts = 2.03 V [too cold]
+
+ === Temperature: 11°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 199 kOhm
+Vts = 1.97 V [cool, charge current reduced to 50%]
+
+ === Temperature: 12°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 189 kOhm
+Vts = 1.92 V [cool, charge current reduced to 50%]
+
+ === Temperature: 13°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 180 kOhm
+Vts = 1.86 V [cool, charge current reduced to 50%]
+
+ === Temperature: 14°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 171 kOhm
+Vts = 1.81 V [cool, charge current reduced to 50%]
+
+ === Temperature: 15°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 162 kOhm
+Vts = 1.75 V [normal]
+
+ === Temperature: 16°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 155 kOhm
+Vts = 1.70 V [normal]
+
+ === Temperature: 17°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 147 kOhm
+Vts = 1.65 V [normal]
+
+ === Temperature: 18°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 140 kOhm
+Vts = 1.60 V [normal]
+
+ === Temperature: 19°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 133 kOhm
+Vts = 1.55 V [normal]
+
+ === Temperature: 20°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 127 kOhm
+Vts = 1.50 V [normal]
+
+ === Temperature: 21°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 121 kOhm
+Vts = 1.45 V [normal]
+
+ === Temperature: 22°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 115 kOhm
+Vts = 1.41 V [normal]
+
+ === Temperature: 23°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 110 kOhm
+Vts = 1.36 V [normal]
+
+ === Temperature: 24°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 105 kOhm
+Vts = 1.32 V [normal]
+
+ === Temperature: 25°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 100.0 kOhm
+Vts = 1.27 V [normal]
+
+ === Temperature: 26°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 95.4 kOhm
+Vts = 1.23 V [normal]
+
+ === Temperature: 27°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 91.0 kOhm
+Vts = 1.19 V [normal]
+
+ === Temperature: 28°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 86.9 kOhm
+Vts = 1.15 V [normal]
+
+ === Temperature: 29°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 83.0 kOhm
+Vts = 1.11 V [normal]
+
+ === Temperature: 30°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 79.2 kOhm
+Vts = 1.07 V [normal]
+
+ === Temperature: 31°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 75.7 kOhm
+Vts = 1.04 V [normal]
+
+ === Temperature: 32°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 72.3 kOhm
+Vts = 1.00 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 33°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 69.1 kOhm
+Vts = 0.97 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 34°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 66.1 kOhm
+Vts = 0.93 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 35°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 63.2 kOhm
+Vts = 0.90 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 36°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 60.4 kOhm
+Vts = 0.87 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 37°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 57.8 kOhm
+Vts = 0.84 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 38°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 55.3 kOhm
+Vts = 0.81 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 39°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 52.9 kOhm
+Vts = 0.78 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 40°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 50.7 kOhm
+Vts = 0.75 V [warm, charge voltage reduced by 140mV]
+
+ === Temperature: 41°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 48.5 kOhm
+Vts = 0.72 V [too hot]
+
+ === Temperature: 42°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 46.5 kOhm
+Vts = 0.70 V [too hot]
+
+ === Temperature: 43°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 44.5 kOhm
+Vts = 0.67 V [too hot]
+
+ === Temperature: 44°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 42.7 kOhm
+Vts = 0.65 V [too hot]
+
+ === Temperature: 45°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 40.9 kOhm
+Vts = 0.63 V [too hot]
+
+ === Temperature: 46°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 39.2 kOhm
+Vts = 0.60 V [too hot]
+
+ === Temperature: 47°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 37.6 kOhm
+Vts = 0.58 V [too hot]
+
+ === Temperature: 48°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 36.1 kOhm
+Vts = 0.56 V [too hot]
+
+ === Temperature: 49°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 34.6 kOhm
+Vts = 0.54 V [too hot]
+
+ === Temperature: 50°C ===
+Vin = 5.00 V
+Rlo = 2.20 MOhm
+Rhi = 280 kOhm
+Rntc = 33.2 kOhm
+Vts = 0.52 V [too hot]
+

@@ -1,0 +1,14 @@
+# Altium files
+__Previews/
+History/
+*.htm
+Project Outputs for */
+Project Logs for */
+*.PrjPcbStructure
+*.OutJob
+
+# MacOS
+.DS_Store
+
+# Excel
+~$*.xlsx
