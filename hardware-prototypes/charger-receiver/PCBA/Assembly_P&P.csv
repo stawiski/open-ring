@@ -1,0 +1,19 @@
+Units used: mm,,,,,,
+,,,,,,
+Designator,Layer,Footprint,Center-X(mm),Center-Y(mm),Rotation,Description
+C1,TopLayer,SMD_CAPACITOR_0603,11.6,6.6,360,Capacitor SMT 0603
+C2,TopLayer,SMD_CAPACITOR_0402,41.8,17.9,180,Ceramic Capacitor 2.2uF 20% 6.3V X5R 0402
+C3,TopLayer,SMD_CAPACITOR_0402,38.4,15.1,180,Ceramic Capacitor 2.2uF 20% 6.3V X5R 0402
+C6,TopLayer,SMD_CAPACITOR_0402,39.6,14.2,360,Ceramic Capacitor 2.2uF 20% 6.3V X5R 0402
+C4,TopLayer,SMD_CAPACITOR_0402,38.4,15.9,180,Ceramic Capacitor 10uF 20% 10V X5R 0402
+C5,TopLayer,SMD_CAPACITOR_0402,39.8,17.9,180,Ceramic Capacitor 10uF 20% 10V X5R 0402
+C15,TopLayer,SMD_CAPACITOR_0201,41.4,14.25,180,Capacitor SMT 0201
+C16,TopLayer,SMD_CAPACITOR_0603,14.9,7.2,270,Capacitor SMT 0603
+R1,TopLayer,SMD_RESISTOR_0603,24.5,2.6,270,Resistor SMT 0603
+R2,TopLayer,SMD_RESISTOR_0603,26.5,2.6,270,Resistor SMT 0603
+R3,TopLayer,SMD_RESISTOR_0603,11.5,2.6,270,Resistor SMT 0603
+R4,TopLayer,SMD_RESISTOR_0603,9.5,2.6,270,Resistor SMT 0603
+R5,TopLayer,SMD_RESISTOR_0603,13.5,2.6,270,Resistor SMT 0603
+L1,TopLayer,SMD_INDUCTOR_0603,38.4,17.5,90,Inductor fixed 2.2uH 20% 500mA 180mOhm 0603
+U1,TopLayer,BQ25125-DSBGA25,40.7,16,90,BQ25125 Low IQ Highly Integrated Battery Charge Management Solution For Wearables and IoT
+U2,TopLayer,8-VSSOP,11.6,8.6,180,Automotive 2-Channel Auto Bidirectional Multi-Voltage Level Translator
