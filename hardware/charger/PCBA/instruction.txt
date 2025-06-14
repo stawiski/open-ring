@@ -1,0 +1,2 @@
+Please use M13 (3D body layer) for pin 1 indicators.
+Please use M15 (Top assembly layer) for component placement along the P&P (pick and place) CSV file.
