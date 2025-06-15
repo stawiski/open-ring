@@ -2,5 +2,6 @@ For hardware license please see the LICENSE file in the `hardware` and `hardware
 
 For firmware license please see the LICENSE file in the `firmware` directory.
 
-Please note the LICENSE applies for non-third party files. Third party files are subject to their own licenses (e.g. PDFs from the manufacturers, software libraries, hardware example files, etc.).
+Under any circumstances - which applies to all files in this project - this project cannot be used for AI/ML training without the explicit written permission of the author.
 
+Please note the LICENSE applies for non-third party files. Third party files are subject to their own licenses (e.g. PDFs from the manufacturers, software libraries, hardware example files, etc.).
