@@ -47,6 +47,10 @@ Open Ring uses:
 - Macronix MX25R2035 FLASH memory
 - STMicroelectronics STM32G030F6 MCU for the charger
 
+**Take a look at the schematics**:
+- [Ring schematic](./hardware/schematic_ring.pdf)
+- [Charger schematic](./hardware/schematic_charger.pdf)
+
 ## Altium libraries
 
 Many components used in this project come from Celestial Altium Library (https://github.com/issus/altium-library). Other components have been drawn from scratch. 3D step files were downloaded from the manufacturer's websites or taken from the Celestial Altium Library.
